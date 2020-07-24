@@ -342,3 +342,4 @@ div.ez-toc-widget-container li {
 .ez-toc-icon-toggle:before {
 	content: "\e87a";
 }
+.ez-toc-widget li li{font-size:16px;line-height:1.25em;}.ez-toc-widget li ul .ez-toc-link{color:#000000;}.ez-toc-widget .active a{font-weight:400 !important;}.ez-toc-widget nav .ez-toc-list > li > .ez-toc-link{color:#000000;}.ez-toc-widget li .active{padding-left:10px;padding-right:10px;background-color:#ededed;padding-bottom:10px;}.inside-right-sidebar li ul li{padding-top:10px !important;}.ez-toc-widget .active .ez-toc-link{padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;}.ez-toc-widget nav .active{padding-left:10px;padding-right:10px;padding-bottom:10px;}
