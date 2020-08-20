@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="401" height="80" viewBox="0 0 401 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H401V80H0Z"/></clipPath>
+<clipPath id="c0"><path d="M0,90.7V0H401.8V90.7Z"/></clipPath>
+<clipPath id="c1"><path d="M0,80.4V0H401.8V80.4Z"/></clipPath>
+<clipPath id="c2"><path d="M8,80.4V53.7H26.7V80.4Z"/></clipPath>
+<clipPath id="c3"><path d="M58.1,80.4V53.7H76.8V80.4Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 29.99px;
+font-family: OpenSans-Regular_f;
+fill: #000;
+}
+.s2{
+font-size: 14.08px;
+font-family: OpenSans-Light_g;
+fill: #000;
+}
+
+.g0{
+fill: #FFFFFF;
+}
+.g1{
+fill: #183857;
+}
+.g2{
+fill: #F9AB78;
+}
+.g3{
+fill: #EEF0D4;
+}
+.g4{
+fill: #C1D0B8;
+}
+.g5{
+fill: #F68712;
+}
+.g6{
+fill: #EB916E;
+}
+.g7{
+fill: #B42127;
+}
+.g8{
+fill: #4B2F36;
+}
+.g9{
+fill: #25517F;
+}
+.ga{
+fill: #641012;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,80
+L401,80
+L401,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<g clip-path="url(#c0)">
+<path d="M0,0H401.8V90.7H0V0Z" class="g0"/>
+<path d="M0,0H401.8V80.4H0V0Z" class="g0"/>
+</g>
+<path clip-path="url(#c1)" d="M0,0H401.8V80.4H0V0Z" class="g0"/>
+<path d="M63,80.4L59.7,53.9L54.3,50.1l-23.4,.4l-5.3,3.4c0,0,-1.8,13.6,-3.5,26.5H63Z" class="g1"/>
+<path clip-path="url(#c2)" d="M22.6,80.4c1.6,-6.6,6,-26.3,3,-26.5C21.8,53.7,13.3,60.8,8.4,79.1c-.1,.4,-.2,.8,-.4,1.3H22.6Z" class="g1"/>
+<path clip-path="url(#c3)" d="M76.8,80.4c-.1,-.5,-.2,-.9,-.3,-1.3C71.5,60.8,63,53.7,59.2,53.9c-3,.2,1.5,19.9,3,26.5H76.8Z" class="g1"/>
+<path d="M55.2,27c0,0,1,-2.4,3,-1.2c1.8,1.1,-1.2,9,-2.8,9.1C53.8,35,53.7,33.4,53.7,33.4Z" class="g2"/>
+<path d="M30.4,27c0,0,-1,-2.4,-3,-1.2c-1.8,1.1,1.2,9,2.8,9.1c1.6,.1,1.7,-1.5,1.7,-1.5Z" class="g2"/>
+<path d="M54.3,51H30.9l9.2,26.4h4.7L54.3,51Z" class="g3"/>
+<path d="M54.9,51H30.5l5.4,8.3c0,0,4.1,-.7,6.7,-3.6c1.7,1.8,6.4,4,6.4,4L54.9,51Z" class="g4"/>
+<path d="M65.2,8.2c0,-.4,-.3,-.5,-.3,-.5L46.1,5.9l.3,.7L63.6,8.3c0,0,.3,0,.3,.4c0,.5,.4,12.5,.4,12.5h.5l.4,-13Z" class="g5"/>
+<path d="M65.5,18.9c0,.5,-.4,.9,-.9,.9c-.5,0,-1,-.4,-1,-.9c0,-.5,.5,-1,1,-1c.5,0,.9,.5,.9,1Z" class="g5"/>
+<path d="M64.2,24.9c0,.5,0,2.5,0,2.5c0,0,-.1,-1.4,-.1,-2.5c0,-1.1,.1,-2.9,.1,-2.9c0,0,.1,2.4,0,2.9Zm1.2,-2.6c-.2,-1.7,-1.4,-2,-1.7,0c-.3,2.1,-1.3,8.2,-1.3,8.2h.7v.4l.8,-7.4l-.5,7.4h1l.2,-4.7l.1,4.4l.4,.3l-.3,-8.3l.5,8.2l-.2,.1l1.4,-.4c0,0,-.9,-6.4,-1.1,-8.2Z" class="g5"/>
+<path d="M52.9,49.9c0,0,-7.7,4,-10,4c-2.4,0,-11.3,-3.4,-11.3,-3.4l3.5,-2.7l2.8,-9H48.5l1.7,9l2.7,2.1Z" class="g6"/>
+<path d="M54.1,36.5c-.3,3.4,-7.2,10.7,-11.3,10.7c-4,0,-10.3,-6.6,-11.2,-10.7c-.7,-3.3,-2.3,-13,-1.2,-17.9C31.8,12.1,37.3,9.7,42.9,9.7c6.2,0,10.9,3.1,12.5,8.9c1.2,4.3,-.8,14.4,-1.3,17.9Z" class="g2"/>
+<path d="M36.4,58.5C33,54.2,30,50.4,30,50.4l4.5,-3.2l8.4,6.7c0,0,-4,4.3,-6.5,4.6Z" class="g3"/>
+<path d="M49,58.5c3.4,-4.3,6.4,-8.1,6.4,-8.1L50.9,47.2l-8.4,6.7c0,0,4,4.3,6.5,4.6Z" class="g3"/>
+<path d="M44.8,77.4L44,58.7c0,0,-1.1,.8,-1.5,.8c-.4,0,-1.3,-1,-1.3,-1L40.1,77.4h4.7Z" class="g7"/>
+<path d="M29.1,21.5c0,0,-.4,3.9,.2,4.2c.7,.3,.9,1.2,.9,1.2c0,0,.1,-4,2.1,-4.8C36.9,19.9,40,20.7,42.5,20.9c2.5,.3,9.5,.5,10.4,1.6c.9,1,1.5,5.5,1.5,5.5c0,0,1.3,-2.1,2.1,-2.4C56.7,23.8,56.3,22,56.3,22c0,0,-5.3,-3.5,-13.1,-3.4c-7.8,.1,-14.1,2.9,-14.1,2.9Z" class="g8"/>
+<path d="M44.7,22.5L12.6,9.8L44,0L71.5,9.3L44.7,22.5Z" class="g9"/>
+<path d="M56.5,22.6c0,0,-8.3,-4.6,-13.6,2.1C35.7,16.6,29.1,22.4,29.1,22.4l.3,-11.7c0,0,2.9,-2.2,13.5,-2.2c10.6,0,13.6,2.2,13.6,2.2V22.6Z" class="g1"/>
+<path d="M44,58.7c0,0,-1.1,.9,-1.5,.9c-.3,0,-1.3,-1.1,-1.3,-1.1l.1,-.3h2.6l.1,.5Z" class="ga"/>
+<path d="M43.9,58.5c0,0,-1,.6,-1.3,.6c-.3,0,-1.3,-.9,-1.3,-.9c0,0,-.1,-.6,-.3,-1.7c-.1,-1,3.5,-1.1,3.3,0c-.1,1.3,-.4,2,-.4,2Z" class="g7"/>
+<g clip-path="url(#c1)">
+<text x="92" y="35" class="s1">NCERT - VisionPapers</text>
+<text x="112" y="61" class="s2">NCERT Study Material On Your Fingertips</text>
+</g>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: OpenSans-Light_g;
+	src: url("fonts/OpenSans-Light_g.woff") format("woff");
+}
+
+@font-face {
+	font-family: OpenSans-Regular_f;
+	src: url("fonts/OpenSans-Regular_f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
